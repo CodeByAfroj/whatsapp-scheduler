@@ -1,0 +1,6 @@
+2025/07/30-16:28:59.787 1b7c Reusing MANIFEST D:\ReactProjects\whatsapp-scheduler\backend\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/30-16:28:59.801 1b7c Recovering log #3
+2025/07/30-16:28:59.805 1b7c Reusing old log D:\ReactProjects\whatsapp-scheduler\backend\tokens\whatsapp-session\Default\Local Storage\leveldb/000003.log 
+2025/07/30-16:32:00.557 4d50 Level-0 table #5: started
+2025/07/30-16:32:00.566 4d50 Level-0 table #5: 18456 bytes OK
+2025/07/30-16:32:00.574 4d50 Delete type=0 #3
